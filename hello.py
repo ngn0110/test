@@ -1,2 +1,2 @@
 print("Hello, Github!")
-print("This is my first Python repsitory."
+print("This is my first Python repsitory.")
